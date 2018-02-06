@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pininosOnDriveAPI", "pininosOnDriveAPI\pininosOnDriveAPI.csproj", "{CAA89DE8-7B09-4D8F-A304-F6A400D6B9D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA89DE8-7B09-4D8F-A304-F6A400D6B9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA89DE8-7B09-4D8F-A304-F6A400D6B9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA89DE8-7B09-4D8F-A304-F6A400D6B9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA89DE8-7B09-4D8F-A304-F6A400D6B9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0AF581-4147-4C13-BD1A-BCA267645B3D}
+	EndGlobalSection
+EndGlobal
